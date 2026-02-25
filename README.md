@@ -26,4 +26,4 @@ Agar ushbu loyihani o'z kompyuteringizda ishlatib ko'rmoqchi bo'lsangiz, quyidag
 
 1. Loyihani yuklab oling:
    ```bash
-   git clone [https://github.com/sizning-nomingiz/laravel-todo-api.git](https://github.com/sizning-nomingiz/laravel-todo-api.git)
+   git clone [https://github.com/oral36175-tech/laravel-todo-api.git](https://github.com/oral36175-tech/laravel-todo-api.git)
